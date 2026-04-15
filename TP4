@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS Grid Boxes</title>
+    <link rel="stylesheet" href="style.CSS">
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="box box1">
+        <img src="https://www.clarifai.com/hs-fs/hubfs/ML%20ca-jpg.jpeg?width=700&height=391&name=ML%20ca-jpg.jpeg" alt="Image " width="400" height="auto">
+        <h2>Titre1</h2>
+        <p>Introduction aux concepts du machine Learning.</p>
+        <button>Voir plus</button>
+    </div>
+
+    <div class="box box2">
+        <img src=https://www.numacom.fr/assets/img/content/2023/03/api-application-programming-interface-033caa3-600x450.jpg alt="Image " width="400" height="auto">
+        <h2>Titre2</h2>
+        <p>création d'application web modernes.</p>
+        <button>Voir plus</button>
+    </div>
+
+    <div class="box box3">
+        <img src=https://image.slidesharecdn.com/les-series-numeriques-241127161502-fbf69b7d/85/Les-series-numeriques2222222222222222-pdf-1-320.jpg alt="Image " width="400" height="auto">
+        <h2>Titre3</h2>
+        <p>les séries</p>
+        <button>Voir plus</button>
+    </div>
+
+    <div class="box box4">
+        <img src=https://aibotpost.com/wp-content/uploads/2024/11/IA-dans-les-paris-sportif.webp alt="Image " width="400" height="auto">
+        <h2>Titre4</h2>
+        <p>Révolutionne l'Analyse du sport</p>
+        <button>Voir plus</button>
+    </div>
+
+</div>
+
+</body>
+</html>
